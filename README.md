@@ -1,4 +1,7 @@
-# Hi, I'm Penut 👋
+<h1 align="center">Hi, I'm Penut 👋</h1>
+<h3 align="center">I Love to Code, I Love to Share.</h3>
+
+<div align="center">
 
 ![](https://img.shields.io/github/followers/penut85420?style=for-the-badge&logo=github)
 ![](https://img.shields.io/github/stars/penut85420?style=for-the-badge&logo=github)
@@ -6,7 +9,9 @@
 [![](https://img.shields.io/static/v1?label=My&message=Blogger&color=green&style=for-the-badge&logo=wordpress)](https://penut.ddns.net/)
 [![](https://img.shields.io/static/v1?label=My&message=Twitter&color=5DA9DD&style=for-the-badge&logo=twitter)](https://twitter.com/Da_OppaiLoli)
 
-I love to code, I love to share. Graduated from the Department of Computer Science and Engineering, National Taiwan Ocean University. Interested in machine learning, information security, financial technology, and competitive programming. Have experiences in the development of command bot, command-line tool, backend, simple website, and desktop GUI program.
+</div>
+  
+Graduated from the Department of Computer Science and Engineering, National Taiwan Ocean University. Interested in machine learning, information security, financial technology, and competitive programming. Have experiences in the development of command bot, command-line tool, backend, simple website, and desktop GUI program.
 
 Here are some of my important works!
 
@@ -19,6 +24,15 @@ This is a series of bots made for ALGS Studio, which is a StarCraft II broadcast
 ## [CopyTranslate](https://github.com/penut85420/CopyTranslate)
 This is a lightweight and convenient cli tool that can help you translate when you are reading, you only need to copy, and the program will auto translate it for you.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=penut85420&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=penut85420&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=penut85420&theme=monokai)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=penut85420&show_icons=true&count_private=true&theme=onedark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=penut85420&layout=compact&theme=onedark&hide=javascript,html&langs_count=8)
+<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=penut85420) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=penut85420&theme=monokai) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=penut85420&theme=monokai) -->
+![Metrics](https://metrics.lecoq.io/penut85420?template=classic&gists=1&config.timezone=Asia%2FTaipei)  
+
+</div>
+
