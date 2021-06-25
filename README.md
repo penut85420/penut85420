@@ -32,7 +32,7 @@ This is a lightweight and convenient cli tool that can help you translate when y
 <!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=penut85420) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=penut85420&theme=monokai) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=penut85420&theme=monokai) -->
-![Metrics](https://metrics.lecoq.io/penut85420?template=classic&gists=1&config.timezone=Asia%2FTaipei)  
+![Metrics](https://raw.githubusercontent.com/penut85420/penut85420/main/github-metrics.svg)  
 
 </div>
 
