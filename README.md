@@ -6,11 +6,11 @@
 ![](https://img.shields.io/github/followers/penut85420?style=for-the-badge&logo=github)
 ![](https://img.shields.io/github/stars/penut85420?style=for-the-badge&logo=github)
   
-![](https://img.shields.io/static/v1?label=Love&message=Coding&color=ff79b4&style=for-the-badge&logo=github)
+![](https://img.shields.io/static/v1?label=Love&message=Coding&color=violet&style=for-the-badge&logo=visual-studio-code)
   
-[![](https://img.shields.io/static/v1?label=My&message=Blogger&color=green&style=for-the-badge&logo=wordpress)](https://penut.ddns.net/)
-[![](https://img.shields.io/static/v1?label=My&message=Twitter&color=5DA9DD&style=for-the-badge&logo=twitter)](https://twitter.com/Da_OppaiLoli)
-[![](https://img.shields.io/static/v1?label=Discord&message=PenutChen%232135&color=5865F2&style=for-the-badge&logo=discord)](https://discord.gg/HyQEypc)
+[![](https://img.shields.io/static/v1?label=My&message=Blogger&color=green&style=flat-square&logo=wordpress)](https://penut.ddns.net/)
+[![](https://img.shields.io/static/v1?label=My&message=Twitter&color=5DA9DD&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Da_OppaiLoli)
+[![](https://img.shields.io/static/v1?label=Discord&message=PenutChen%232135&color=5865F2&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/HyQEypc)
 
 </div>
   
@@ -38,6 +38,7 @@ Here are some of my important works!
 ![](https://github-readme-stats.vercel.app/api?username=penut85420&show_icons=true&count_private=true&theme=onedark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=penut85420&layout=compact&theme=onedark&hide=javascript,html&langs_count=8)
+  
 <!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=penut85420) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=penut85420&theme=monokai) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=penut85420&theme=monokai) -->
