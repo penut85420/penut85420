@@ -10,3 +10,7 @@ This is a series of bots made for ALGS Studio, which is a StarCraft II broadcast
 
 ## [CopyTranslate](https://github.com/penut85420/CopyTranslate)
 This is a lightweight and convenient cli tool that can help you translate when you are reading, you only need to copy, and the program will auto translate it for you.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=penut85420&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=penut85420&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=penut85420&theme=monokai)
