@@ -45,3 +45,8 @@ Here are some of my important works!
 
 </div>
 
+<div align="right">
+  
+![](https://komarev.com/ghpvc/?username=penut85420&label=Profile%20Views&color=blueviolet&style=flat)
+  
+</div>
