@@ -14,7 +14,7 @@
 
 </div>
   
-Graduated with a bachelor's degree in the Department of Computer Science and Engineering, National Taiwan Ocean University. Interested in machine learning, information security, financial technology, and competitive programming. Have experiences in the development of command bot, command-line tool, backend, simple website, and desktop GUI program. Familiar with command line Linux.
+Graduated with a master's degree in Natural Language Processing Laboratory  Department of Computer Science and Engineering, National Taiwan Ocean University. Interested in machine learning, information security, financial technology, and competitive programming. Have experiences in the development of command bot, command-line tool, backend, simple website, and desktop GUI program. Familiar with command line Linux.
 
 Here are some of my important works!
 
