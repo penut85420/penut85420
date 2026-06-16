@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1880 Commits
+                            2002 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">luke8086/gentleos32</span>
+                                        <span class="repo">YusufB5/ASCILINE</span>
                                     </div>
                                 </div>
                             </section>
@@ -203,7 +203,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">vllm-project/vllm-omni</span>
+                                        <span class="repo">joske/yserver</span>
                                     </div>
                                 </div>
                             </section>
@@ -216,7 +216,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">conventional-changelog/commitlint</span>
+                                        <span class="repo">stassafuae/xonix_for_windows_1_0</span>
                                     </div>
                                 </div>
                             </section>
@@ -229,7 +229,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">tripplyons/pokeemerald-wasm</span>
+                                        <span class="repo">kekcleader/FreeOberon</span>
                                     </div>
                                 </div>
                             </section>
@@ -242,7 +242,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">krauseler/muxcard</span>
+                                        <span class="repo">icitry/FPS.cob</span>
                                     </div>
                                 </div>
                             </section>
@@ -252,7 +252,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2026, 09:12:31 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2026, 09:21:03 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
